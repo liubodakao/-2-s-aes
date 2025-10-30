@@ -1,0 +1,2 @@
+PyQt5>= 5.15.11
+# 安装命令: pip install -r requirements-minimal.txt
